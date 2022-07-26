@@ -1,5 +1,3 @@
-## Due Jul 14, 2022, 23:59
-
 # BANKING SYSTEM
 Arkadaşlar merhaba, bu ödevimizde Spring Boot webservices(REST), Dosya İşlemleri ve Apache Kafka kullanarak basit bir bankacılık uygulaması geliştireceğiz.
 
